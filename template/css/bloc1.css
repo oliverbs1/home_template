@@ -1,0 +1,89 @@
+.bloc {
+    width: 100%;
+    background-color: black;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+}
+
+#bloc1 {
+    height: 700px;
+    background: url("../images/bloc1/bg_bloc1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bloc1 {
+    height: 700px;
+}
+
+.logo {
+    width: 55px;
+    margin-top: 32px;
+}
+
+.menubar {
+    position: relative;
+    float: right;
+    margin-top: 32px;
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+}
+
+.carre {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 9px;
+    left: 7px;
+}
+
+.trait {
+    border-top: 2px solid black;
+    width: 16px;
+    padding-top: 1px;
+    height: 2px;
+}
+
+.center {
+    text-align: center;
+    margin-top: 173px;
+}
+
+.center h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+
+.center h2 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.center h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 50px;
+}
+
+.border {
+    height: 1px;
+    width: 184px;
+    border-top: 1px solid black;
+    position: absolute;
+    top: 392px;
+    left: 386px;
+}
+
+.mouse {
+    width: 25px;
+    margin: 15px auto;
+}
