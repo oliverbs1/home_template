@@ -1,0 +1,76 @@
+.bloc {
+    width: 100%;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.white {
+    color: white;
+}
+
+#bloc2 {
+    height: 700px;
+    background-color: #121212;
+}
+
+.bloc2 h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 52px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.colonne {
+    position: absolute;
+    top: 130px;
+}
+
+.colonne2 {
+    width: 336px;
+    position: absolute;
+    top: 124px;
+    left: 335px;
+}
+
+.colonne3 {
+    width: 336px;
+    position: absolute;
+    top: 126px;
+    left: 670px;
+}
+
+.serv {
+    width: 307px;
+}
+
+.serv img {
+    margin-left: 10px;
+    width: 38px;
+}
+
+.serv h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    margin-bottom: 20px;
+}
+
+.serv p {
+    font-family: 'Noto sans', sans-serif;
+    color: grey;
+    font-size: 11px;
+    margin-bottom: 66px;
+}
+
+.border2 {
+    width: 59px;
+    height: 1px;
+    margin: 7px 0px 15px 0;
+    border-top: 2px solid #757575;
+}

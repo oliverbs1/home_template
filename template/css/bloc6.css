@@ -1,0 +1,58 @@
+.bloc {
+    width: 100%;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+}
+
+#bloc6 {
+    height: 700px;
+    background-color: #121212;
+}
+
+.h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 52px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.standard {
+    width: 210px;
+    height: 462px;
+    position: absolute;
+    top: 118px;
+    border: 2px solid #505050;
+}
+
+.Prenium {
+    width: 210px;
+    height: 462px;
+    position: absolute;
+    top: 118px;
+    left: 250px;
+    border: 2px solid #505050;
+}
+
+.buss {
+    width: 210px;
+    height: 462px;
+    position: absolute;
+    top: 118px;
+    left: 496px;
+    border: 2px solid #505050;
+}
+
+.ultimate {
+    width: 210px;
+    height: 462px;
+    position: absolute;
+    top: 118px;
+    left: 740px;
+    border: 2px solid #505050;
+}
