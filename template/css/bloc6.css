@@ -8,6 +8,14 @@
     position: relative;
 }
 
+.degrader {
+    background-image: linear-gradient(to right, #f3c400, #ff5801);
+}
+
+.white {
+    color: white;
+}
+
 #bloc6 {
     height: 700px;
     background-color: #121212;
@@ -24,7 +32,7 @@
 
 .standard {
     width: 210px;
-    height: 462px;
+    height: 490px;
     position: absolute;
     top: 118px;
     border: 2px solid #505050;
@@ -32,7 +40,7 @@
 
 .Prenium {
     width: 210px;
-    height: 462px;
+    height: 490px;
     position: absolute;
     top: 118px;
     left: 250px;
@@ -41,7 +49,7 @@
 
 .buss {
     width: 210px;
-    height: 462px;
+    height: 490px;
     position: absolute;
     top: 118px;
     left: 496px;
@@ -50,9 +58,55 @@
 
 .ultimate {
     width: 210px;
-    height: 462px;
+    height: 490px;
     position: absolute;
     top: 118px;
     left: 740px;
     border: 2px solid #505050;
+}
+
+.base {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 28px;
+    left: 20px;
+}
+
+.price {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    position: absolute;
+    top: 62px;
+    left: 121px;
+}
+
+.border3 {
+    width: 170px;
+    height: 1px;
+    margin: 139px 0px 0 20px;
+}
+
+.border4 {
+    width: 170px;
+    height: 1px;
+    margin: 317px 0px 0 20px;
+}
+
+.order {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    position: absolute;
+    top: 466px;
+    left: 58px;
+}
+
+.dolls {
+    font-family: 'Noto sans', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    font-style: italic;
+    top: 65px;
+    left: 104px;
+    color: #757575;
 }
