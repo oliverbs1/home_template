@@ -1,0 +1,79 @@
+.bloc {
+    width: 100%;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.degrader {
+    background-image: linear-gradient(to right, #f3c400, #ff5801);
+}
+
+#bloc8 {
+    height: 350px;
+    background-color: #121212;
+}
+
+.h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 52px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.feb {
+    width: 170px;
+    height: 200px;
+    position: absolute;
+    top: 110px;
+    left: 250px;
+}
+
+.dec {
+    width: 170px;
+    height: 200px;
+    position: absolute;
+    top: 110px;
+    left: 677px;
+}
+
+.date {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 60px;
+}
+
+.bord1 {
+    width: 72px;
+    height: 2px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+
+.blog {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 23px;
+}
+
+.read {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 17px;
+    font-size: 10px;
+}
+
+.month {
+    font-family: 'Noto sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 5px;
+    left: 79px;
+    font-style: italic;
+    color: #757575;
+}

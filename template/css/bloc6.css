@@ -16,6 +16,10 @@
     color: white;
 }
 
+.italic {
+    font-style: italic;
+}
+
 #bloc6 {
     height: 700px;
     background-color: #121212;
@@ -109,4 +113,19 @@
     top: 65px;
     left: 104px;
     color: #757575;
+}
+
+.pinf {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 10px;
+    color: #757575;
+    white-space: pre-wrap;
+    line-height: 37px;
+    text-align: left;
+}
+
+.info {
+    position: absolute;
+    top: 151px;
+    left: 22px;
 }

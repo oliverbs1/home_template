@@ -1,0 +1,20 @@
+.bloc {
+    width: 100%;
+}
+
+.degrader {
+    background-image: linear-gradient(to right, #f3c400, #ff5801);
+}
+
+#footer {
+    height: 58px;
+}
+
+#footer p {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Noto sans', sans-serif;
+    font-style: italic;
+    color: white;
+    padding-top: 20px;
+}

@@ -1,0 +1,54 @@
+.bloc {
+    width: 100%;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.degrader {
+    background-image: linear-gradient(to right, #f3c400, #ff5801);
+}
+
+#bloc10 .bloc10 {
+    height: 350px;
+    background-color: #121212;
+}
+
+.desc {
+    width: 470px;
+    height: 129px;
+    position: absolute;
+    top: 52px;
+}
+
+.izi {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.enim {
+    font-family: 'Noto sans', sans-serif;
+    color: #505050;
+    font-size: 11px;
+    margin-top: 10px;
+    line-height: 20px;
+}
+
+.reach {
+    width: 189px;
+    height: 129px;
+    position: absolute;
+    top: 185px;
+}
+
+.mail {
+    width: 189px;
+    height: 129px;
+    position: absolute;
+    top: 185px;
+    left: 240px;
+}

@@ -1,0 +1,62 @@
+.bloc {
+    width: 100%;
+}
+
+#bloc9 {
+    height: 62px;
+    background-color: #121212;
+}
+
+.fb {
+    width: 25%;
+    height: 58px;
+    border: 2px solid #505050;
+}
+
+.twitter {
+    width: 25%;
+    height: 58px;
+    border-top: 2px solid #505050;
+    border-bottom: 2px solid #505050;
+    border-right: 2px solid #505050;
+    position: absolute;
+    top: 0;
+    left: 25%;
+}
+
+.google {
+    width: 25%;
+    height: 58px;
+    border-top: 2px solid #505050;
+    border-bottom: 2px solid #505050;
+    border-right: 2px solid #505050;
+    position: absolute;
+    top: 0;
+    left: 50%;
+}
+
+.behance {
+    width: 25%;
+    height: 58px;
+    border-top: 2px solid #505050;
+    border-bottom: 2px solid #505050;
+    border-right: 2px solid #505050;
+    position: absolute;
+    top: 0;
+    left: 75%;
+}
+
+.rs {
+    width: 13px;
+    position: absolute;
+    top: 17px;
+    left: 164px;
+}
+
+.edit {
+    width: 20px;
+}
+
+.hov:hover {
+    background-image: linear-gradient(to right, #f3c400, #ff5801);
+}
