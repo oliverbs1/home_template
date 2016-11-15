@@ -1,0 +1,681 @@
+.bloc {
+    width: 100%;
+    background-color: black;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.white {
+    color: white;
+}
+
+.degrader {
+    background-image: linear-gradient(to right, #f3c400, #ff5801);
+}
+
+.italic {
+    font-style: italic;
+}
+
+.h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 52px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+
+/* bloc1 css */
+
+#bloc1 {
+    height: 700px;
+    background: url("../images/bloc1/bg_bloc1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bloc1 {
+    height: 700px;
+}
+
+.logo {
+    width: 55px;
+    margin-top: 32px;
+}
+
+.menubar {
+    position: relative;
+    float: right;
+    margin-top: 32px;
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+}
+
+.carre {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 9px;
+    left: 7px;
+}
+
+.trait {
+    border-top: 2px solid black;
+    width: 16px;
+    padding-top: 1px;
+    height: 2px;
+}
+
+.center {
+    text-align: center;
+    margin-top: 173px;
+}
+
+.center h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+
+.center h2 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.center h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 50px;
+}
+
+.border {
+    height: 1px;
+    width: 184px;
+    border-top: 1px solid black;
+    position: absolute;
+    top: 392px;
+    left: 386px;
+}
+
+.mouse {
+    width: 25px;
+    margin: 15px auto;
+}
+
+
+/* bloc2 css */
+
+#bloc2 {
+    height: 700px;
+    background-color: #121212;
+}
+
+.bloc2 h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 52px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.colonne {
+    position: absolute;
+    top: 130px;
+}
+
+.colonne2 {
+    width: 336px;
+    position: absolute;
+    top: 124px;
+    left: 335px;
+}
+
+.colonne3 {
+    width: 336px;
+    position: absolute;
+    top: 126px;
+    left: 670px;
+}
+
+.serv {
+    width: 307px;
+}
+
+.serv img {
+    margin-left: 10px;
+    width: 38px;
+}
+
+.serv h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    margin-bottom: 20px;
+}
+
+.serv p {
+    font-family: 'Noto sans', sans-serif;
+    color: grey;
+    font-size: 11px;
+    margin-bottom: 66px;
+}
+
+.border2 {
+    width: 59px;
+    height: 1px;
+    margin: 7px 0px 15px 0;
+    border-top: 2px solid #757575;
+}
+
+
+/* bloc3 css */
+
+
+/* bloc4 css */
+
+
+/* bloc5 css */
+
+#bloc5 {
+    height: 300px;
+    background-image: linear-gradient(to right, #f3c400, #ff5801);
+}
+
+.col1 {
+    width: 200px;
+    position: absolute;
+    top: 116px;
+}
+
+.col2 {
+    width: 200px;
+    position: absolute;
+    top: 118px;
+    left: 230px;
+}
+
+.col3 {
+    width: 200px;
+    position: absolute;
+    top: 116px;
+    left: 470px;
+}
+
+.col4 {
+    width: 200px;
+    position: absolute;
+    top: 116px;
+    left: 686px;
+}
+
+.size img {
+    width: 161px;
+    margin-bottom: 30px;
+}
+
+.size1 img {
+    width: 140px;
+    margin-left: 14px;
+}
+
+.size2 img {
+    width: 111px;
+    margin-left: 14px;
+    margin-top: 41px;
+}
+
+.size3 img {
+    width: 143px;
+}
+
+.size4 img {
+    width: 143px;
+    margin-left: 4px;
+    margin-top: 40px;
+}
+
+.size5 img {
+    width: 134px;
+    margin-left: 10px;
+}
+
+.size6 img {
+    width: 146px;
+    margin-top: 44px;
+}
+
+
+/* bloc6 css */
+
+#bloc6 {
+    height: 700px;
+    background-color: #121212;
+}
+
+.standard {
+    width: 210px;
+    height: 490px;
+    position: absolute;
+    top: 118px;
+    border: 2px solid #505050;
+}
+
+.Prenium {
+    width: 210px;
+    height: 490px;
+    position: absolute;
+    top: 118px;
+    left: 250px;
+    border: 2px solid #505050;
+}
+
+.buss {
+    width: 210px;
+    height: 490px;
+    position: absolute;
+    top: 118px;
+    left: 496px;
+    border: 2px solid #505050;
+}
+
+.ultimate {
+    width: 210px;
+    height: 490px;
+    position: absolute;
+    top: 118px;
+    left: 740px;
+    border: 2px solid #505050;
+}
+
+.base {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 28px;
+    left: 20px;
+}
+
+.price {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    position: absolute;
+    top: 62px;
+    left: 121px;
+}
+
+.border3 {
+    width: 170px;
+    height: 1px;
+    margin: 139px 0px 0 20px;
+}
+
+.border4 {
+    width: 170px;
+    height: 1px;
+    margin: 317px 0px 0 20px;
+}
+
+.order {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    position: absolute;
+    top: 466px;
+    left: 58px;
+}
+
+.dolls {
+    font-family: 'Noto sans', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    font-style: italic;
+    top: 65px;
+    left: 104px;
+    color: #757575;
+}
+
+.pinf {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 10px;
+    color: #757575;
+    white-space: pre-wrap;
+    line-height: 37px;
+    text-align: left;
+}
+
+.info {
+    position: absolute;
+    top: 151px;
+    left: 22px;
+}
+
+
+/* bloc7 css */
+
+#bloc7 {
+    height: 700px;
+    background-color: black;
+}
+
+.photoshop {
+    width: 216px;
+    height: 205px;
+    position: absolute;
+    top: 130px;
+}
+
+.fire {
+    width: 216px;
+    height: 205px;
+    position: absolute;
+    top: 130px;
+    left: 247px;
+}
+
+.html {
+    width: 216px;
+    height: 205px;
+    position: absolute;
+    top: 130px;
+    left: 495px;
+}
+
+.word {
+    width: 216px;
+    height: 205px;
+    position: absolute;
+    top: 130px;
+    left: 736px;
+}
+
+.skill {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 179px;
+    font-size: 22px;
+}
+
+.number {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 145px;
+    right: 10px;
+}
+
+.pourc {
+    font-family: 'Noto sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    font-style: italic;
+    top: 154px;
+    left: 204px;
+    color: #757575;
+}
+
+.awesome {
+    width: 473px;
+    height: 140px;
+    position: absolute;
+    top: 482px;
+}
+
+.colorful {
+    width: 473px;
+    height: 140px;
+    position: absolute;
+    top: 482px;
+    left: 482px
+}
+
+.circle {
+    width: 90px;
+    height: 90px;
+    background-color: #cacaca;
+    border-radius: 50px;
+}
+
+.bord {
+    width: 94px;
+    height: 2px;
+    margin-top: 10px;
+}
+
+.sarbat {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 4px;
+    left: 113px;
+    font-size: 20px;
+}
+
+.citation {
+    font-family: 'Noto sans', sans-serif;
+    position: absolute;
+    font-style: italic;
+    color: #9c9c9c;
+    font-size: 11px;
+    width: 356px;
+    top: 31px;
+    left: 113px;
+    line-height: 25px
+}
+
+.author {
+    font-family: 'Noto sans', sans-serif;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    position: absolute;
+    left: 113px;
+    top: 114px;
+}
+
+.guill {
+    font-family: 'Noto sans', sans-serif;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+    font-size: 68px;
+    position: absolute;
+    top: -12px;
+    left: -6px;
+}
+
+
+/* bloc8 css */
+
+#bloc8 {
+    height: 350px;
+    background-color: #121212;
+}
+
+.feb {
+    width: 170px;
+    height: 200px;
+    position: absolute;
+    top: 110px;
+    left: 250px;
+}
+
+.dec {
+    width: 170px;
+    height: 200px;
+    position: absolute;
+    top: 110px;
+    left: 677px;
+}
+
+.date {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 60px;
+}
+
+.bord1 {
+    width: 72px;
+    height: 2px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+
+.blog {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 23px;
+}
+
+.read {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 17px;
+    font-size: 10px;
+}
+
+.month {
+    font-family: 'Noto sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 5px;
+    left: 79px;
+    font-style: italic;
+    color: #757575;
+}
+
+
+/* bloc9 css */
+
+#bloc9 {
+    height: 62px;
+    background-color: #121212;
+}
+
+.fb {
+    width: 25%;
+    height: 58px;
+    border: 2px solid #505050;
+    position: absolute;
+    top: 3447px;
+}
+
+.twitter {
+    width: 25%;
+    height: 58px;
+    border-top: 2px solid #505050;
+    border-bottom: 2px solid #505050;
+    border-right: 2px solid #505050;
+    position: absolute;
+    top: 3447px;
+    left: 25%;
+}
+
+.google {
+    width: 25%;
+    height: 58px;
+    border-top: 2px solid #505050;
+    border-bottom: 2px solid #505050;
+    border-right: 2px solid #505050;
+    position: absolute;
+    top: 3447px;
+    left: 50%;
+}
+
+.behance {
+    width: 25%;
+    height: 58px;
+    border-top: 2px solid #505050;
+    border-bottom: 2px solid #505050;
+    border-right: 2px solid #505050;
+    position: absolute;
+    top: 3447px;
+    left: 75%;
+}
+
+.rs {
+    width: 13px;
+    position: absolute;
+    top: 17px;
+    left: 164px;
+}
+
+.edit {
+    width: 20px;
+}
+
+.hov:hover {
+    background-image: linear-gradient(to right, #f3c400, #ff5801);
+}
+
+
+/* bloc10 css */
+
+#bloc10 {
+    height: 350px;
+    background-color: #121212;
+}
+
+.desc {
+    width: 470px;
+    height: 129px;
+    position: absolute;
+    top: 52px;
+}
+
+.izi {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.enim {
+    font-family: 'Noto sans', sans-serif;
+    color: #505050;
+    font-size: 11px;
+    margin-top: 10px;
+    line-height: 20px;
+}
+
+.reach {
+    width: 189px;
+    height: 129px;
+    position: absolute;
+    top: 185px;
+}
+
+.mail {
+    width: 189px;
+    height: 129px;
+    position: absolute;
+    top: 185px;
+    left: 240px;
+}
+
+
+/* footer css */
+
+#footer {
+    height: 58px;
+}
+
+#footer p {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Noto sans', sans-serif;
+    font-style: italic;
+    color: white;
+    padding-top: 20px;
+}
