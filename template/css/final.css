@@ -181,8 +181,209 @@
 
 /* bloc3 css */
 
+#bloc3 {
+    height: 500px;
+    background-color: #121212;
+}
+
+.bloc3 {
+    height: 500px;
+    background-color: #121212;
+}
+
+.div1 {
+    width: 20%;
+    height: 230px;
+    position: absolute;
+    top: 1399px;
+    left: 0;
+}
+
+.div2 {
+    width: 20%;
+    height: 270px;
+    position: absolute;
+    top: 1630px;
+    left: 0px;
+}
+
+.div3 {
+    width: 20%;
+    height: 195px;
+    position: absolute;
+    top: 1399px;
+    left: 273px;
+}
+
+.div4 {
+    width: 20%;
+    height: 175px;
+    position: absolute;
+    top: 1596px;
+    left: 273px;
+}
+
+.div5 {
+    width: 20%;
+    height: 159px;
+    position: absolute;
+    top: 1399px;
+    left: 547px;
+}
+
+.div6 {
+    width: 20%;
+    height: 255px;
+    position: absolute;
+    top: 1559px;
+    left: 547px;
+}
+
+.div7 {
+    width: 20%;
+    height: 195px;
+    position: absolute;
+    top: 1399px;
+    left: 820px;
+}
+
+.div8 {
+    width: 20%;
+    height: 237px;
+    position: absolute;
+    top: 1595px;
+    left: 820px;
+}
+
+.div9 {
+    width: 20%;
+    height: 230px;
+    position: absolute;
+    top: 1399px;
+    left: 1093px;
+}
+
+.div10 {
+    width: 20%;
+    height: 270px;
+    position: absolute;
+    top: 1630px;
+    left: 1093px;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.opa {
+    opacity: 0.2;
+}
+
+.opa:hover {
+    opacity: 1;
+}
+
+.beauty {
+    width: 20%;
+    height: 80px;
+    position: absolute;
+    top: 1772px;
+    left: 273px;
+}
+
+.yellow {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    padding: 18px 0 0 55px;
+}
+
+.bb {
+    border: 1px solid;
+    width: 97px;
+    margin: 10px 0 0 87px;
+}
+
+.more {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    padding: 13px 0 0 103px;
+}
+
 
 /* bloc4 css */
+
+#bloc4 {
+    height: 450px;
+    background-color: #121212;
+}
+
+.view {
+    width: 651px;
+    height: 35px;
+    background-color: red;
+    position: absolute;
+    top: 26px;
+    left: 150px;
+}
+
+.view p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 12px;
+    font-size: 11px
+}
+
+.work {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 138px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.one {
+    width: 277px;
+    height: 196px;
+    position: absolute;
+    top: 200px;
+}
+
+.two {
+    width: 277px;
+    height: 196px;
+    position: absolute;
+    top: 200px;
+    left: 329px;
+}
+
+.thr {
+    width: 277px;
+    height: 196px;
+    position: absolute;
+    top: 200px;
+    left: 657px;
+}
+
+.bord10 {
+    width: 177px;
+    height: 2px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+
+.tell {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 15px;
+}
+
+.veniam {
+    font-family: 'Noto sans', sans-serif;
+    color: #505050;
+    font-size: 11px;
+    padding-top: 15px;
+    line-height: 18px;
+}
 
 
 /* bloc5 css */
@@ -569,7 +770,7 @@
     height: 58px;
     border: 2px solid #505050;
     position: absolute;
-    top: 3447px;
+    top: 4382px;
 }
 
 .twitter {
@@ -579,7 +780,7 @@
     border-bottom: 2px solid #505050;
     border-right: 2px solid #505050;
     position: absolute;
-    top: 3447px;
+    top: 4382px;
     left: 25%;
 }
 
@@ -590,7 +791,7 @@
     border-bottom: 2px solid #505050;
     border-right: 2px solid #505050;
     position: absolute;
-    top: 3447px;
+    top: 4382px;
     left: 50%;
 }
 
@@ -601,7 +802,7 @@
     border-bottom: 2px solid #505050;
     border-right: 2px solid #505050;
     position: absolute;
-    top: 3447px;
+    top: 4382px;
     left: 75%;
 }
 

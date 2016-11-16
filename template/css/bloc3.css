@@ -1,0 +1,107 @@
+.bloc {
+    width: 100%;
+    background-color: black;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+    position: relative;
+}
+
+#bloc3 {
+    height: 500px;
+    background-color: #121212;
+}
+
+.div1 {
+    width: 20%;
+    height: 230px;
+    position: absolute;
+    top: 0;
+    background-color: red;
+}
+
+.div2 {
+    width: 20%;
+    height: 270px;
+    position: absolute;
+    top: 230px;
+    background-color: blue;
+}
+
+.div3 {
+    width: 20%;
+    height: 195px;
+    position: absolute;
+    top: 0;
+    left: 273px;
+    background-color: blue;
+}
+
+.div4 {
+    width: 20%;
+    height: 175px;
+    position: absolute;
+    top: 195px;
+    left: 273px;
+    background-color: red;
+}
+
+.div5 {
+    width: 20%;
+    height: 159px;
+    position: absolute;
+    top: 0;
+    left: 547px;
+    background-color: red;
+}
+
+.div6 {
+    width: 20%;
+    height: 255px;
+    position: absolute;
+    top: 159px;
+    left: 546px;
+    background-color: blue;
+}
+
+.div7 {
+    width: 20%;
+    height: 195px;
+    position: absolute;
+    top: 0;
+    left: 819px;
+    background-color: blue;
+}
+
+.div8 {
+    width: 20%;
+    height: 237px;
+    position: absolute;
+    top: 195px;
+    left: 820px;
+    background-color: red;
+}
+
+.div9 {
+    width: 20%;
+    height: 230px;
+    position: absolute;
+    top: 0;
+    left: 1093px;
+    background-color: red;
+}
+
+.div10 {
+    width: 20%;
+    height: 270px;
+    position: absolute;
+    top: 230px;
+    left: 1093px;
+    background-color: blue;
+}
+
+.border {
+    border: 1px solid black;
+}
