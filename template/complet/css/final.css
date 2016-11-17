@@ -35,7 +35,7 @@
 
 #bloc1 {
     height: 700px;
-    background: url("../images/bloc1/bg_bloc1.png");
+    background: url("../../images/bloc1/bg_bloc1.png");
     background-size: cover;
     background-repeat: no-repeat;
 }

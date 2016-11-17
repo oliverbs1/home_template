@@ -11,12 +11,12 @@ app.get('/nike', function (req, res) {
     res.send('<h1>Hello nike</h1>');
 });
 
-app.use('/css', express.static(__dirname + '/template/css'));
+app.use('/css', express.static(__dirname + '/template/complet/css'));
 app.use('/images', express.static(__dirname + '/template/images'));
-app.use('/js', express.static(__dirname + '/template/js'));
+app.use('/js', express.static(__dirname + '/template/complet/js'));
 
 app.get('/page', function (req, res) {
-    res.sendFile(__dirname + '/template/final.html');
+    res.sendFile(__dirname + '/template//complet/final.html');
 });
 
 http.listen(1337, function () {
