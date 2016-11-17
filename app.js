@@ -16,7 +16,7 @@ app.use('/images', express.static(__dirname + '/template/images'));
 app.use('/js', express.static(__dirname + '/template/complet/js'));
 
 app.get('/home', function (req, res) {
-    res.sendFile(__dirname + '/template//complet/final.html');
+    res.sendFile(__dirname + '/template/complet/final.html');
 });
 
 http.listen(1337, function () {
