@@ -15,7 +15,7 @@ app.use('/css', express.static(__dirname + '/template/complet/css'));
 app.use('/images', express.static(__dirname + '/template/images'));
 app.use('/js', express.static(__dirname + '/template/complet/js'));
 
-app.get('/page', function (req, res) {
+app.get('/home', function (req, res) {
     res.sendFile(__dirname + '/template//complet/final.html');
 });
 
