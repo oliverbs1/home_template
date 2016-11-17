@@ -19,6 +19,6 @@ app.get('/home', function (req, res) {
     res.sendFile(__dirname + '/template/complet/final.html');
 });
 
-http.listen(1337, function () {
-    console.log('listening on *:1337');
+http.listen(6001, function () {
+    console.log('listening on *:6001');
 });
